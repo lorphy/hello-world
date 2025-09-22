@@ -1,15 +1,15 @@
 05215d8f{
   "files": {
     "main.css": "/hello-world/static/css/main.0fbccb6f.css",
-    "main.js": "/hello-world/static/js/main.05215d8f.js",
+    "main.js": "/hello-world/static/js/main.bc5534d2.js",
     "static/js/453.1be3888b.chunk.js": "/hello-world/static/js/453.1be3888b.chunk.js",
     "index.html": "/hello-world/index.html",
     "main.0fbccb6f.css.map": "/hello-world/static/css/main.0fbccb6f.css.map",
-    "main.05215d8f.js.map": "/hello-world/static/js/main.05215d8f.js.map",
+    "main.bc5534d2.js.map": "/hello-world/static/js/main.bc5534d2.js.map",
     "453.1be3888b.chunk.js.map": "/hello-world/static/js/453.1be3888b.chunk.js.map"
   },
   "entrypoints": [
     "/hello-world/static/css/main.0fbccb6f.css",
-    "/hello-world/static/js/main.05215d8f.js"
+    "/hello-world/static/js/main.bc5534d2.js"
   ]
 }
