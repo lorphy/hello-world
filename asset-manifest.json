@@ -9,7 +9,7 @@
     "453.1be3888b.chunk.js.map": "/hello-world/static/js/453.1be3888b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fbccb6f.css",
-    "static/js/main.dd0b9753.js"
+    "/hello-world/static/css/main.0fbccb6f.css",
+    "/hello-world/static/js/main.dd0b9753.js"
   ]
 }
